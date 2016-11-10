@@ -1,6 +1,6 @@
 {
   "name": "code-color",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ryan Goldener <yangttlxl@sina.com>",
   "description": "a simple tool for wrapping strings in bash and dos color codes. Used to color console output.",
   "repository": {

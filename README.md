@@ -5,8 +5,9 @@ A node.js module for wrapping strings in color codes for pretty printing in shel
 $ npm install code-color
 ```
 
-# test to update code-color on github and npm
-jjjj
-kkkk
-llll
-iiii
+Then import it into your project:
+
+```js
+var color = require('code-color');
+console.log('test code-color ' + color.red('red') );
+```
