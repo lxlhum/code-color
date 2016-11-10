@@ -1,2 +1,10 @@
 # code-color
-Code-Color is a Javascript whole environment shell-color npm tools
+A node.js module for wrapping strings in color codes for pretty printing in shell\dos. Please，install via NPM:
+
+```bash
+$ npm install code-color
+```
+
+
+
+
